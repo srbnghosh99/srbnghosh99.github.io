@@ -24,8 +24,8 @@ navbar-links:
   About Me: "aboutme"
   Resources:
     - Home: "https://srbnghosh99.github.io"
-    - Publication: "https://www.markdowntutorial.com/"
-    - Teaching: "https://deanattali.com"
+    - Publication: "publication"
+    - Teaching: "teaching"
 
 ################
 # --- Logo --- #
