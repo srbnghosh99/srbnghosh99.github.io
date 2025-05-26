@@ -1,15 +1,11 @@
----
-layout: page
-title: About me
----
 
 #### Graduate Research Assistant  
 **University of North Carolina at Charlotte**  
-*Summer 2022 (May–August), Summer 2023 (May–August)*
 - Conducted literature reviews and developed research ideas collaboratively
 - Collected and analyzed data, implemented methods, and wrote research methods
 - Prepared detailed reports and delivered presentations
 
+#### Graduate Teaching Assistant 
 #### Instructor  
 **Department of Computer Science, University of North Carolina at Charlotte**  
 *Spring 2024, Summer 2022*  
