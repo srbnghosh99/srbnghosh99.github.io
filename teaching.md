@@ -1,22 +1,47 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+#### Graduate Research Assistant  
+**University of North Carolina at Charlotte**  
+*Summer 2022 (May–August), Summer 2023 (May–August)*
+- Conducted literature reviews and developed research ideas collaboratively
+- Collected and analyzed data, implemented methods, and wrote research methods
+- Prepared detailed reports and delivered presentations
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+#### Instructor  
+**Department of Computer Science, University of North Carolina at Charlotte**  
+*Spring 2024, Summer 2022*  
+- Taught topics including Propositional Logic, Set Theory, Integer Properties, Proof Methods, Functions, Summation Sequences, and Induction
+- Designed course projects, assignments, and questionnaires
+- Held office hours and graded student submissions
 
+**Department of Computer Science and Engineering, United International University, Bangladesh**  
+*October 2015 – May 2016*  
+- Taught Structured Programming and Data Structures Lab
 
-Graduate Research Assistant 
- - University of North Carolina at Charlotte, Summer 2022 (May 2022-August 2022), Summer 2023 (May 2022-August 2022)
- - Searching for and reading research articles, generating ideas, and brainstorming ideas 
- - Doing collaborative work
- - Data collection, writing methods, implementing methods, and data analysis. 
- - Preparing reports and presentation
+### Teaching Assistantships
 
-### My story
+#### Graduate Teaching Assistant  
+**Introduction to Data Mining, UNC Charlotte**  
+*Fall 2020 (September–December)*  
+- Assisted in designing projects and assignments on Frequent Itemset Mining, Min-Hashing, Locality Sensitive Hashing, and Dimensionality Reduction
+- Held office hours and graded coursework
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+**Model Engineering (MSIM 510), Old Dominion University**  
+*Spring 2019 (January–May)*  
+- Delivered lectures on Petri Nets and Dynamic Modeling
+- Supported course project development and grading
+
+**Foundations of Cyber Security (MSIM 570), Old Dominion University**  
+*Fall 2018 & Fall 2019 (September–December)*  
+- Graded exams and assignments, held office hours
+
+### Industry Experience
+
+#### Assistant Software Engineer  
+**System Resources Limited, Bangladesh**  
+*January 2015 – January 2016*  
+- Developed database management systems for the Bangladesh Power Development Board and Dhaka Power Distribution Company
+
