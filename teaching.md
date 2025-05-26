@@ -5,7 +5,8 @@
 - Collected and analyzed data, implemented methods, and wrote research methods
 - Prepared detailed reports and delivered presentations
 
-#### Graduate Teaching Assistant 
+### Teaching Assistantships
+
 #### Instructor  
 **Department of Computer Science, University of North Carolina at Charlotte**  
 *Spring 2024, Summer 2022*  
@@ -17,7 +18,7 @@
 *October 2015 – May 2016*  
 - Taught Structured Programming and Data Structures Lab
 
-### Teaching Assistantships
+
 
 #### Graduate Teaching Assistant  
 **Introduction to Data Mining, UNC Charlotte**  
