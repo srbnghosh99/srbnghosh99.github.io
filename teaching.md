@@ -9,7 +9,7 @@
 
 #### Instructor  
 **Department of Computer Science, University of North Carolina at Charlotte**  
-*Spring 2024, Summer 2022*  
+*Fall 2024, Spring 2024, Fall 2024, Summer 2022, Spring 2025*  
 - Taught topics including Propositional Logic, Set Theory, Integer Properties, Proof Methods, Functions, Summation Sequences, and Induction
 - Designed course projects, assignments, and questionnaires
 - Held office hours and graded student submissions
