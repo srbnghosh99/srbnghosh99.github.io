@@ -2,7 +2,7 @@
 
 ---
 
-## Journal Publications
+### Journal Publications
 
 **[J2]** Shrabani Ghosh.  
 *“A Survey on Signed Graph Embedding: Methods and Applications.”*  
