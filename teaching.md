@@ -1,5 +1,6 @@
+### Research Assistantships
 
-#### Graduate Research Assistant  
+#### Graduate Research Assistant
 **University of North Carolina at Charlotte**  
 - Conducted literature reviews and developed research ideas collaboratively
 - Collected and analyzed data, implemented methods, and wrote research methods
