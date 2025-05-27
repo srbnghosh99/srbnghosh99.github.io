@@ -14,6 +14,10 @@ Published in *Case Studies on Transport Policy*.
 
 ## Conference Papers & Other Publications
 
+**[C5]** Shrabani Ghosh, Erik Saule  
+*“The Role of Community Detection Methods in Performance Variations of Graph Mining Tasks.”*  
+Submitted at the *17th International Conference on ASONAM 2025 (under review)*.
+
 **[C4]** Shrabani Ghosh.  
 *“Examining Different Research Communities: Authorship Network.”*  
 Presented at the *13th International Conference on Complex Networks and Their Applications*.
