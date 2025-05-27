@@ -22,6 +22,9 @@ author: Shrabani
 
 navbar-links:
   About Me: "aboutme"
+  Home: "https://srbnghosh99.github.io"
+  Publication: "publication"
+  Teaching: "teaching"
   Resources:
     - Home: "https://srbnghosh99.github.io"
     - Publication: "publication"
