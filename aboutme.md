@@ -1,13 +1,16 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+# subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I am a Ph.D. Candidate at the University of North Carolina at Charlotte, working with Dr. Erik Saule. 
+My primary research interest lies in Graph Mining, Natural Language Processing (NLP), Social Media Mining and Analysis. 
+My research agenda is based on three pillars:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Graph Representation Learning 
+- Applied Machine Learning for Social Impact
+- Bias, Fairness, and Trust in Scholarly and Social Networks 
 
 What else do you need?
 
