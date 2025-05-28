@@ -13,7 +13,3 @@ My research agenda is based on three pillars:
 - Social Media Mining to understand impact of social media on railsafety, presidential election and convid-19 events on misinformation propagation, sentiment, emotion and hashtag analysis.  
 
 
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
