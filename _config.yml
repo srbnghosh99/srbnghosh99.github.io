@@ -55,11 +55,11 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "sghosh15@charlotte.edu"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  # rss: true  # remove this line if you don't want to show an RSS link at the bottom
   facebook: srbn.g
   # github: srbnghosh99
   twitter: srbn_g
-   Wix: "https://srbnghosh99.wixsite.com/sghosh"
+  Wix: "https://srbnghosh99.wixsite.com/sghosh"
 #  youtube: "@daattali"
 #  whatsapp: 15551212
 #  medium: yourname
@@ -103,10 +103,11 @@ share-links-active:
   linkedin: true
   vk: false
   reddit: false
+  
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "https://webpages.charlotte.edu/sghosh15/"
+# url-pretty: "https://webpages.charlotte.edu/sghosh15/"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
