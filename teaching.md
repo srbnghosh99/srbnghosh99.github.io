@@ -4,7 +4,7 @@ title: Experiences
 
 ---
 
-### Research Assistantships
+### Academic Experiences
 
 #### Graduate Research Assistant
 **University of North Carolina at Charlotte**  
