@@ -12,8 +12,6 @@ title: Experiences
 - Collected and analyzed data, implemented methods, and wrote research methods
 - Prepared detailed reports and delivered presentations
 
-### Teaching Assistantships
-
 #### Instructor  
 **Department of Computer Science, University of North Carolina at Charlotte**  
 - Taught topics including Propositional Logic, Set Theory, Integer Properties, Proof Methods, Functions, Summation Sequences, and Induction
