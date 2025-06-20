@@ -38,5 +38,5 @@ title: Experiences
 #### Assistant Software Engineer  
 **System Resources Limited, Bangladesh**  
 *January 2015 – January 2016*  
-- Developed database management systems for the Bangladesh Power Development Board and Dhaka Power Distribution Company
+- Developed database management systems for the Bangladesh Power Development Board and Dhaka Power Distribution Company (SQL, Oracle database)
 
