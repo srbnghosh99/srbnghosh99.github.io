@@ -3,9 +3,8 @@ layout: page
 title: About me
 # subtitle: Why you'd want to go on a date with me
 ---
-
-I am a Ph.D. Candidate at the University of North Carolina at Charlotte, working with Dr. Erik Saule. 
-My primary research interest lies in Graph Mining, Natural Language Processing (NLP), Social Media Mining and Analysis. 
+I am a Postdoctoral Researcher at Tennessee State University. I completed my Ph.D. in August 2025 from the University of North Carolina at Charlotte. My PhD supervisor is Dr. Erik Saule. 
+My primary research interest lies in Graph Mining, Multimodal Data Representation Learning, Natural Language Processing (NLP) and Social Media Mining and Analysis. 
 My research agenda is based on three pillars:
 
 - Graph Representation Learning to analyze large graph for downstream task such as link prediction, node classification and community clustering. 
